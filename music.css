@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+iframe{
+	position: absolute;
+	top:150px;
+	left:185px;
+	height: 450px;
+	width: 860px;
+}
+p{
+	position:absolute;
+	top:445px;
+	left:1060px;
+	color: bisque;
+}
+a{
+	color: bisque;
+}

@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	color: orangered;
+	font-size: 50px;
+}
+
+p{
+	position: relative;
+	color: brown;
+	letter-spacing: 20px;
+	font-size: 20px;
+}
+
+.s1{
+	position: absolute;
+	top: 250px;
+	transform: rotate(30deg);
+}
+.s2{
+	position: absolute;
+	top:450px;
+	left: 400px;
+	transform: rotate(345deg);
+}
+.s3{
+	position: absolute;
+	top:180px;
+	left: 880px;
+	transform: rotate(15deg);
+}
+a{
+	position: absolute;
+	top:30px;
+	left:1150px;
+	font-size: 35px;
+}
